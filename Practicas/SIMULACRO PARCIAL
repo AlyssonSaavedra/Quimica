@@ -1,0 +1,8 @@
+6. [COLAB] Indicar cuántas estructuras isoméricas existen para la fórmula molecular C3H6O. Deduce en un colab el número de enlaces en la representación de Lewis antes de proponer las estructuras.
+7. Indica la hibridación de los carbonos señalados con flechas
+8. ¿Cuál es el enlace más largo en la molécula de la pregunta 7? Justifica tu respuesta.
+9. [COLAB] Dibuja las estructuras resonantes de la siguiente molécula:
+(Verifica en un colab el número de enlaces en la representación de Lewis)
+10. [COLAB] Mediante un algoritmo usando Python, balancea la siguiente ecuación.
+Al2O3 + HCl = AlCl3 + H2O
+Emplea esto para desarrollar un programa donde se ingrese la masa en gramos de Al2O3 y se genere un output con la masa de HCl, AlCl3 y H2O.
